@@ -9,7 +9,7 @@ public class MainClass {
 		
 		Subtraction sub = new Subtraction();
 		
-		System.out.println("\n\tAdding two numbers: "+sub.subtraction(10,100));
+		System.out.println("\n\t Sample output of subtraction of two numbers 10-100 is: "+sub.subtraction(10,100));
 		
 		Scanner sc=new Scanner(System.in);
 		
